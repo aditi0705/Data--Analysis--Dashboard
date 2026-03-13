@@ -20,13 +20,6 @@ The purpose of this project is to demonstrate **data cleaning, analysis, and vis
 - Data Cleaning
 - Data Visualization
   
-## Dashboard Insights
-The dashboard provides insights into:
--  Average restaurant ratings
--  Price distribution
--  Delivery time analysis
--  Restaurant performance
--  Location-based analysis
   
 ## DataSet used
 - <a href= "https://github.com/aditi0705/Data--Analysis--Dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Dataset</a>
@@ -48,24 +41,29 @@ Total Restaurants
 
 ## Project Workflow
 
--Data Collection
-
--Data Cleaning
-
--Data Preparation
-
--Data Analysis using Pivot Tables
-
--Data Visualization with Charts
-
--Dashboard Creation with Slicers
-
--Insights Generation
-
+- Data Collection
+- Data Cleaning
+- Data Preparation
+- Data Analysis using Pivot Tables
+- Data Visualization with Charts
+- Dashboard Creation with Slicers
+- Insights Generation
 
 ## Dashboard
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-07 140027" src="https://github.com/user-attachments/assets/229acfb0-7d20-4251-b1fc-e867266efb5b" />
 
+## Dashboard Insights
+
+The dashboard provides insights into:
+-  Average restaurant ratings
+-  Price distribution
+-  Delivery time analysis
+-  Restaurant performance
+-  Location-based analysis
+  
+## Final Conclusion
+
+This project demonstrates how Microsoft Excel can be used to transform raw Swiggy restaurant data into meaningful insights through data cleaning, analysis, and interactive dashboards. The dashboard highlights trends in ratings, pricing, delivery time, and restaurant performance, helping users quickly understand customer preferences and business patterns.
 
 
