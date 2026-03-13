@@ -35,6 +35,7 @@ The dashboard provides insights into:
 
 Total Restaurants
 - Average Rating
+  
 - Average Price
 - Average Delivery Time
 - Top Rated Restaurants
