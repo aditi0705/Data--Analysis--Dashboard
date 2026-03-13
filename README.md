@@ -42,7 +42,7 @@ Total Restaurants
 - Most Popular Cuisine
 - Restaurant Distribution by Location
 
-  ## Dashboard Intraction
+## Dashboard Intraction
 
 - <a href= "https://github.com/aditi0705/Data--Analysis--Dashboard/blob/main/Screenshot%202026-03-07%20140027.png">Dashboard</a>
 
@@ -53,12 +53,19 @@ Total Restaurants
 -Data Cleaning
 
 -Data Preparation
+
 -Data Analysis using Pivot Tables
+
 -Data Visualization with Charts
+
 -Dashboard Creation with Slicers
+
 -Insights Generation
 
+
 ## Dashboard
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-07 140027" src="https://github.com/user-attachments/assets/229acfb0-7d20-4251-b1fc-e867266efb5b" />
 
 
 
