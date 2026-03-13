@@ -1,4 +1,6 @@
-Swiggy Data Analysis Dashboard ## Project Overview
+## Swiggy Data Analysis Dashboard
+
+## Project Overview
 This project presents an interactive **Swiggy Data Analysis Dashboard built in Microsoft Excel**.  
 The dashboard helps analyze restaurant ratings, pricing, delivery time, and customer preferences.
 
