@@ -27,3 +27,6 @@ The dashboard provides insights into:
 -  Delivery time analysis
 -  Restaurant performance
 -  Location-based analysis
+  
+## DataSet used
+- <a href= "https://github.com/aditi0705/Data--Analysis--Dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Dataset</a>
