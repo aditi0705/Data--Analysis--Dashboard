@@ -30,3 +30,32 @@ The dashboard provides insights into:
   
 ## DataSet used
 - <a href= "https://github.com/aditi0705/Data--Analysis--Dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Dataset</a>
+
+## Key KPIs Analyzed
+
+Total Restaurants
+- Average Rating
+- Average Price
+- Average Delivery Time
+- Top Rated Restaurants
+- Most Popular Cuisine
+- Restaurant Distribution by Location
+
+- Dashboard Intraction
+
+- <a href= "https://github.com/aditi0705/Data--Analysis--Dashboard/blob/main/Screenshot%202026-03-07%20140027.png">Dashboard</a>
+
+## Project Workflow
+
+-Data Collection
+-Data Cleaning
+-Data Preparation
+-Data Analysis using Pivot Tables
+-Data Visualization with Charts
+-Dashboard Creation with Slicers
+-Insights Generation
+
+## Dashboard
+
+
+
